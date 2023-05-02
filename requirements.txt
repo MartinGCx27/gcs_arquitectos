@@ -1,5 +1,4 @@
-django == 2.1.15
-django-pyodbc-azure == 2.1.0.0
+django == 4.2
 Pillow == 9.5.0
 pyodbc == 4.0.39
 django-fernet-fields == 0.6
@@ -9,5 +8,5 @@ Jinja2 == 2.11.3
 qrcode == 6.1
 django-betterforms == 1.2
 stripe == 2.63.0
-asgiref == 3.3.1
+asgiref == 3.6
 sqlparse == 0.4.1
